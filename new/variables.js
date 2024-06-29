@@ -12,4 +12,4 @@ accountCity = "ambernath"      //this is only for understanding . prefer to not 
 let accountState
 
 console.log(accountId)
-console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
