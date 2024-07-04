@@ -10,6 +10,9 @@ number => 2 to power 53
 string => ""(use double qoutes mostly)
 boolean => true/false
 null => standalone value
-undefined
-
+undefined =>
+symbol
 */
+
+
+//Object
